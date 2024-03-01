@@ -1,6 +1,5 @@
 - Project: Amazon Book Review Recommendation System
 - Duration: Nov. - Dec. 2023
 - Contributors: Jayson Xu, Silvia Lee, Songbo Hu, Zhuhang Jiang, Leonidas Mugema
-- Presentation Deck: Download
-- Report: Download
-
+- Platforms: AWS Hadoop (PySpark), AWS S3, Jupyter Notebook, MySQL Workbench
+- Languages: Python, SQL
