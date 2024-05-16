@@ -5,5 +5,5 @@
 - `Languages`: Python, SQL
 
 ### Data Pipeline Diagram
-![Image] 
+![Image](https://github.com/Jayson-Xu-00/Amazon-Book-Review-Recommendation-System/blob/main/Data_Pipeline_Diagram.png)
 
